@@ -1,0 +1,58 @@
+body {
+    color: #000;
+}
+
+.wrapper {
+    background-color: #fff;
+}
+
+.border {
+    border: 1px solid #000;
+}
+
+.line-250 {
+    border-top: 1px solid #000;
+    width: 200px;
+}
+
+.line-130 {
+    border-top: 1px solid #000;
+    width: 130px;
+}
+
+.logo {
+    border: 1px solid #000;
+}
+
+.menu__item:hover {
+    color: #5c4f74;
+}
+
+.theme {
+    border: 1px solid #000;
+}
+
+.theme__check {
+    background-color: #000;
+}
+
+.header__btn {
+    color: #000;
+}
+
+.header__btn:hover {
+    background-color: #5c4f74;
+    color: #fff;
+}
+
+.holder {
+    background-color: #5c4f74;
+}
+
+.holder-desc__text {
+    border-left: 1px solid #000;
+}
+
+.social-list__item {
+    border: 1px solid #000;
+}

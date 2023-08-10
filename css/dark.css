@@ -1,0 +1,61 @@
+body {
+    color: #ca3e47;
+}
+
+.wrapper {
+    background-color: #313131;
+}
+
+.border {
+    border: 1px solid #ca3e47;
+}
+
+.line-250 {
+    border-top: 1px solid #ca3e47;
+    width: 200px;
+}
+
+.line-130 {
+    border-top: 1px solid #ca3e47;
+    width: 130px;
+}
+
+.logo {
+    background-color: #eef2f5;
+    border: 1px solid #ca3e47;
+}
+
+.menu__item:hover {
+    color: #5c4f74;
+}
+
+.theme {
+    background-color: #eef2f5;
+    border: 1px solid #ca3e47;
+}
+
+.theme__check {
+    background-color: #ca3e47;
+}
+
+.header__btn {
+    color: #ca3e47;
+}
+
+.header__btn:hover {
+    background-color: #5c4f74;
+    color: #fff;
+}
+
+.holder {
+    background-color: #5c4f74;
+}
+
+.holder-desc__text {
+    border-left: 1px solid #ca3e47;
+}
+
+.social-list__item {
+    background-color: #eef2f5;
+    border: 1px solid #ca3e47;
+}
